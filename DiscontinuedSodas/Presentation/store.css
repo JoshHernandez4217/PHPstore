@@ -1,0 +1,490 @@
+
+
+.LoginPage{
+background-image: url("https://static1.squarespace.com/static/52536652e4b007332ef4ecf4/55c28573e4b02253a66f0070/55c28575e4b0dee1087b9bc5/1438811510564/orbitz_nice_orbitzsnapple_elements_desktop_1440x900_hd-wallpaper-16550.jp");
+background-size: cover;
+}
+
+.homepage{
+	background-image: radial-gradient(circle, black, black, gray, white);
+	
+}
+
+.searchpage{
+	background-image: url("https://static1.squarespace.com/static/52536652e4b007332ef4ecf4/55c28573e4b02253a66f0070/55c28575e4b0dee1087b9bc5/1438811510564/orbitz_nice_orbitzsnapple_elements_desktop_1440x900_hd-wallpaper-16550.jp");
+	background-size: cover;
+	
+}
+
+.LoginForm{
+	
+border: 1.2em ridge;
+border-radius: 20vw;
+border-color: turquoise pink red yellow;
+margin: 2em;
+font-size: 1.2em;
+overflow:hidden;
+text-align: center;
+color:-webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+
+.header{
+	
+	font-family: New Century Schoolbook;
+	font-size: 2.3em;
+	margin: 0 auto;
+	text-align: center;
+	width: 30em;
+	height: 1em;
+	    -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+
+button{
+	background: transparent;
+    font-size: 1vw;
+	text-algin:center;
+	cursor: pointer; 
+	border: 2px solid;
+	border-color: -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+}
+
+
+.header{
+	
+	font-family: New Century Schoolbook;
+	font-size: 4em;
+	margin: 0 auto;
+	text-align: center;
+	width: 30em;
+	height: 1em;
+	    -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+
+.button{
+	background: transparent;
+    border: black;
+    font-size: 1vw;
+	text-algin:center;
+	cursor: pointer; 
+	color: -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+}
+}
+
+a:visited {
+	text-decoration: none;
+	color: -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+}
+}
+
+.table{
+	overflow:scroll; 
+	width:8vw;
+	height:10vw;
+	text-align: center;
+	margin-left: auto;
+margin-right: auto;
+align: "center";
+}
+
+
+tr {
+	border-bottom: solid 1px black;
+}
+
+td,th{
+	border-left: solid 2px black;
+}
+
+th{
+	text-align:center;
+	font-family: New Century Schoolbook;
+	font-size: 2em;
+	color:-webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+
+.ResultsHeader {
+	font-family: New Century Schoolbook;
+	font-size: 2em;
+	margin: 0;
+	text-align: left;
+	width: 31em;
+	height: 0;
+	    -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+
+
+.DisplayHeader {
+	font-family: New Century Schoolbook;
+	font-size: 2em;
+	margin: 0 auto;
+	text-align: center;
+	width: 40em;
+	height: 0;
+	    -webkit-animation: color-change 1.5s infinite;
+    -moz-animation: color-change 4s infinite;
+    -o-animation: color-change 4s infinite;
+    -ms-animation: color-change 4s infinite;
+    animation: color-change 4s infinite;
+
+@-webkit-keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-moz-keyframes color-change {
+ 	 0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }}
+}
+@-ms-keyframes color-change {
+      0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@-o-keyframes color-change {
+        0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% { color: SpringGreen;}
+    50% { color: yellow; }
+    75% { color: turquoise;}
+    100% { color: red; }
+}
+}
+
+.centeredcontainer{
+	
+}
+
+.sodaPage{
+	background-image: radial-gradient(circle, white, gray, black, black);
+}
+
+
+

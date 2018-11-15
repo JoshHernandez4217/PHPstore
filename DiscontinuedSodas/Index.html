@@ -1,0 +1,30 @@
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="Presentation/store.css">
+
+</head>
+<body class="LoginPage">
+<div class= "header">
+<h1>Discontinued Sodas Store</h1>
+</div>
+<div class = "LoginForm">
+<form action="../DiscontinuedSodas/Presentation/views/Login/LoginHandler.php" method = "POST">
+
+		<label for="usrname">Username: </label>
+		<span class="input-span"><input type="text" name="username"></input></span>
+		<br>
+		<label for = "pssword">Password: </label> 
+		<span class="input-span"><input type="password" name="password"></input></span>
+		<br>
+		<label for="pin">Pin: </label> 
+		<span class="input-span"><input type="number" name="pin"></input></span>
+		<br>
+		<button type="submit" name="login">Login</button>
+
+<p>If you do not have an account, click <a href="../DiscontinuedSodas/Presentation/views/showRegister.html"> here to register first</a></p>
+</form>
+
+</div>
+</body>
+</html>
